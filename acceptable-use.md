@@ -4,11 +4,11 @@
 
 ## 2. Purpose/Topic/Background
 
-2.1  [Company] provides employees and other authorized users with computers and internet access to help them perform their duties. Employees are expected to use these resources primarily for business purposes.
+2.1  {Company} provides employees and other authorized users with computers and internet access to help them perform their duties. Employees are expected to use these resources primarily for business purposes.
 
 ## 3. Scope/Audience
 
-3.1  This policy applies to all employees, contractors, and other third parties granted access to <company>-managed systems and networks.
+3.1  This policy applies to all employees, contractors, and other third parties granted access to {company}-managed systems and networks.
 
 ## 4. Policy
 
